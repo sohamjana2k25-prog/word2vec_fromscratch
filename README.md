@@ -8,4 +8,10 @@ Module used - NUMPY ( for DOT PRODUCT SCORING)
 
 FUTURE PLANS - 
 Implement Attention Mechanism to implement Contextual Embeddings.
+
+OUTPUTS - 
+
 <img width="709" height="175" alt="image" src="https://github.com/user-attachments/assets/58ca8614-f753-41bc-ac7a-7e0ca0b27ab7" />
+<img width="503" height="228" alt="image" src="https://github.com/user-attachments/assets/3c5e071d-7968-4170-bccc-3e2e4fa390ad" />
+<img width="585" height="213" alt="image" src="https://github.com/user-attachments/assets/7d707e44-aa5c-4611-9d62-fbda934cd618" />
+
